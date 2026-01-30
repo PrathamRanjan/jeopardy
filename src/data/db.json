@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "id": "demo-group",
+      "name": "Demo Group",
+      "passcode": "123",
+      "categories": [
+        {
+          "id": "cat-demo-1",
+          "title": "Fun Facts",
+          "questions": [
+            {
+              "id": "q-demo-1",
+              "points": 100,
+              "question": "This is a hardcoded question from the database.",
+              "answer": "It works!",
+              "isAnswered": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
